@@ -15,7 +15,7 @@ Carefuly read through the .txt files before using Umotox to avoid any errors whi
 
 1. Download this repository onto your system.
 2. Check if `ffmpeg.exe` and `3DWaves` are inside the `tools` folder.
-3. Place your `.mp3` or `.wav` files in the root folder (same directory as the script) OR drag-and-drop your `.mp3` or `.wav file onto the Desktop Shortcut.
+3. Place your `.mp3` or `.wav` files in the root folder (same directory as the script) OR drag-and-drop your `.mp3` or `.wav` file onto the Desktop Shortcut.
 
 
 ## Output
