@@ -25,7 +25,7 @@ Carefuly read through the .txt files before using Umotox to avoid any errors whi
 
 ## Credits and Contributions
 
-The entire Umotox tool was coded by @scaoes. 
+The entire Umotox tool was coded by **_@scaoes_**. 
 FFmpeg is a required tool for Umotox and is thhe only thing that was NOT coded by Nero.
 The official FFmpeg site is credited below me for you to use it in your own creations!
 
@@ -35,6 +35,9 @@ https://www.ffmpeg.org/
 ## Socials
 
 GitHub:  scaoes
+
 Discord: nerosrc
+
 Twitter: nerosrcx
+
 TikTok:  sylnets
